@@ -1,2 +1,3 @@
 # ZSomething
 Crafting dynamic web apps with a focus on user experience. Exploring the power of modern frameworks.
+Welcome to my GitHub profile! I'm a front-end developer specializing in React.js and Next.js. I enjoy leveraging these powerful frameworks to build dynamic and interactive web applications. With a keen eye for detail and a passion for user experience design, I strive to create intuitive interfaces that captivate users. My repositories showcase projects where I've honed my skills, exploring the possibilities of React.js and Next.js and also some tricks in Redux, to deliver modern and responsive web solutions. Join me on this coding journey as I continue to learn, grow, and create!
